@@ -2,9 +2,19 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# SQLite
+*.db
 
 # Distribution / packaging
 .Python
